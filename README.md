@@ -129,15 +129,40 @@ Operate workloads with **visibility, security, and governance controls**.
 
 ---
 
+## **Lab 7 – Capstone Project**
+
+* **Internal Resource Dashboard** – Multi-service integration
+* Combines: VPC, Compute Engine, Cloud Storage, IAM, Monitoring, Logging
+* Real-world use case: Content managed in Storage, served by VM; IT updates without touching servers
+* Production-ready: Labels, alerts, dashboards
+
+**Outcome:**
+Demonstrate end-to-end **deployment of a secure, observable application** on GCP.
+
+---
+
+## **Lab 8 – Capstone Project (HA)**
+
+* **High-Availability Web Service** – Load balancing and zone resilience
+* Combines: Custom VPC, 2 VMs (MIG), HTTP Load Balancer, Health Checks, Monitoring
+* Real-world use case: Customer-facing status portal; survives zone/VM failure
+* Production-ready: Single entry point, automatic failover
+
+**Outcome:**
+Demonstrate **high-availability deployment** with load balancing and multi-zone resilience.
+
+---
+
 ### **Program Completion Skills**
 
-By the end of these 6 sessions, participants can:
+By the end of these 6 sessions (plus capstone), participants can:
 
 * Provision secure GCP infrastructure
 * Deploy and manage VM workloads
 * Control access using IAM best practices
 * Store and manage data securely
 * Monitor, troubleshoot, and govern cloud environments
+* Build and integrate multi-service solutions (capstone)
 
 If you want next, I can:
 
