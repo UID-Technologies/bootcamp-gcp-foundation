@@ -153,6 +153,18 @@ Demonstrate **high-availability deployment** with load balancing and multi-zone 
 
 ---
 
+## **Lab 9 – Capstone Project (Event-Driven)**
+
+* **Event-Driven Document Intake Pipeline** – Serverless, event-triggered processing
+* Combines: Cloud Storage, Cloud Functions, Eventarc, IAM, Logging, Monitoring
+* Real-world use case: Auto-process files on upload; validate, archive, or reject
+* Production-ready: No VMs, pay-per-invocation, audit trail in logs
+
+**Outcome:**
+Demonstrate **serverless, event-driven architecture** with Storage triggers and Cloud Functions.
+
+---
+
 ### **Program Completion Skills**
 
 By the end of these 6 sessions (plus capstone), participants can:
